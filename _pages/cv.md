@@ -11,10 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc with Honors in Mathematics and Applied Mathematic, 2019-2023 (expected)
 
 CV
 ======
-Here is my [CV](https://ValentinoWang/math-wsy.github.io/files/V6_Siyao_Wang_CV.pdf)
+Here is my [CV](https://math-wsy.github.io/files/V6_Siyao_Wang_CV.pdf)

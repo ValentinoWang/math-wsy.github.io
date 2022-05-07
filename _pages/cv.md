@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* BSc with Honors in Mathematics and Applied Mathematic, 2019-2023 (expected)
+* BSc with with Honors in Mathematics, Cuiying Honors College, 2019-2023, Lanzhou University (expected)
 
 CV
 ======

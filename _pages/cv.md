@@ -17,4 +17,4 @@ Education
 
 CV
 ======
-Here is my [CV](https://github.com/ValentinoWang/math-wsy.github.io/raw/master/files/V6_Siyao_Wang_CV.pdf)
+Here is my [CV](https://math-wsy.github.io/files/V6_Siyao_Wang_CV.pdf)

@@ -1,17 +1,20 @@
 ---
-title: "(Chinese Project) Shape Optimization of “FAST” Active Reflector panels Based on Target Planning and Particle Swarm Algorithm"
-excerpt: "This project comes from Contemporary Undergraduate Mathematical Contest in Modeling, 2021
+title: "Optimal Power Allocation Model for Different types of Cyclists"
+excerpt: "This project comes from COMAP's Mathematical Contest in Modeling, 2022
 
-![Disease-free Equilibrium of the Model](https://valentinowang.github.io/math-wsy.github.io/images/Project/Project1/Structure_of_panel.png)"
+![Structure of panel](https://valentinowang.github.io/math-wsy.github.io/images/Project/Project1/speed_relations.png)"
 collection: portfolio
 ---
 
-* Determined the ideal paraboloid position of the “FAST” active reflector panels in the operating state using space analytic geometry, according to the spherical position in the idle state.
+* Fitted the power profiles (indicates how long a rider can produce a given amount of power) for different types of cyclists using the hyperbolic model after a thorough review of the literature on kinematics physics to characterize their unique ability
+ Derived the ordinary differential equations for cyclists’ power and riding velocity from the dynamic analysis of cyclists
 
-* Derived the actual working paraboloid position by constructing the target planning model under the constraints of the cable nodes’ adjustment range on the panels; Invoked particle swarm algorithm to solve the model
+* Developed and solved a planning model targeting the shortest time for 2021 Tokyo Olympic Time Trial course under the constraints of sharp turns velocity and sprint limits
 
-* Applied the model to observe celestial body at a particular location and calculated the ratio of the reflected signal to the received signal of the receivers
+* Tested the robustness and stability of the model by adding the influence of $\pm3𝑚/s$ wind velocity as well as calculating the time taken for the power distribution to deviate 10% from the ideal model
+
+* Applied the model to team cycling races to analyze the time used in different team synergy modes
 
 
-[Details of this project can be seen in this section](https://valentinowang.github.io/math-wsy.github.io/files/Shape_Optimization_of_“FAST”_Active_Reflector_panels.pdf)
+[Details of this project can be seen in this section](https://valentinowang.github.io/math-wsy.github.io/files/Exhausted_or_Easy.pdf)
 

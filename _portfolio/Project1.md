@@ -1,5 +1,5 @@
 ---
-title: "Optimal Power Allocation Model for Different types of Cyclists"
+title: "Shape Optimization of “FAST” Active Reflector panels Based on Target Planning and Particle Swarm Algorithm"
 excerpt: "
 * This project comes from Contemporary Undergraduate Mathematical Contest in Modeling, 2021
 * Awarded the **First Prize** of Contemporary Undergraduate Mathematical Contest in Modeling

@@ -6,7 +6,7 @@ excerpt: "
 
 * The project is Awarded as the **Meritorious Winner** of the COMAP's Mathematical Contest in Modeling
 
-![Structure of panel](https://valentinowang.github.io/math-wsy.github.io/images/Project/Project1/speed_relations.png)"
+![Structure of panel](https://valentinowang.github.io/math-wsy.github.io/images/Project/Project1/speed_relations.png#pic_center)"
 collection: portfolio
 ---
 

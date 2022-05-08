@@ -1,6 +1,6 @@
 ---
 title: "(Chinese Project) Infectious Diseases Model Based on Dynamical System Model with Migration and Periodic Pulse Inoculation Effects"
-excerpt: "
+excerpt: "This project is an innovative entrepreneurial project of Lanzhou University
 ![Disease-free Equilibrium of the Model](https://valentinowang.github.io/math-wsy.github.io/images/Project/Project1/Disease_free_equilibrium.png)"
 collection: portfolio
 ---

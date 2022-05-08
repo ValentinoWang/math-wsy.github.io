@@ -1,6 +1,10 @@
 ---
 title: "Optimal Power Allocation Model for Different types of Cyclists"
-excerpt: "This project comes from COMAP's Mathematical Contest in Modeling, 2022
+excerpt: "
+
+* This project comes from COMAP's Mathematical Contest in Modeling, 2022
+
+* The project is Awarded as the **Meritorious Winner** of the COMAP's Mathematical Contest in Modeling
 
 ![Structure of panel](https://valentinowang.github.io/math-wsy.github.io/images/Project/Project1/speed_relations.png)"
 collection: portfolio

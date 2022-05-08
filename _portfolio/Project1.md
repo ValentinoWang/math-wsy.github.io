@@ -1,8 +1,8 @@
 ---
 title: "(Chinese Project) Shape Optimization of “FAST” Active Reflector panels Based on Target Planning and Particle Swarm Algorithm"
-excerpt: "
+excerpt: "This project comes from Contemporary Undergraduate Mathematical Contest in Modeling, 2021"
 
-![Disease-free Equilibrium of the Model](https://valentinowang.github.io/math-wsy.github.io/images/Project/Project1/Structure_of_panel.png)"
+<img src="https://valentinowang.github.io/math-wsy.github.io/images/Project/Project1/Structure_of_panel.png" width="50%" height="50%" />
 collection: portfolio
 ---
 

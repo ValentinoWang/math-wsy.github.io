@@ -5,10 +5,13 @@ excerpt: "This project is an innovative entrepreneurial project of Lanzhou Unive
 collection: portfolio
 ---
 
-The SIS model with migration relationship between two patches was developed by considering vaccination as a constant covariate group and 
-a pulse vaccination factor. 
-The disease-free cycle solution was obtained by solving for the number of vaccinations at the end of the cycle at the moment of disease-free equilibrium, plotted using Matlab software when the migration rate was taken as a constant in both patches. 
-Then, the conditions for the disease-free cycle solution to satisfy stability within a positive cycle were explored. The conditions for the simultaneous stability of the disease-free cycle solution at both locations were given so that the inequality of the relationship between the maximum value of the minimum inoculation positive cycle and the migration coefficient could be derived when other parameters were determined.
+* Proposed the SIVS model of two cities by adding the effects of periodic pulse inoculation and population migration to the traditional SIR model
+
+* Obtained and visualized the numerical solution of the equation using MATLAB; divided the solutions into “disease-free equilibrium” and “endemic equilibrium” according to whether the disease will be extinct in the stable state
+
+* Found the analytic solution for disease-free equilibrium; analyzed its stability using Lyapunov’s second theorem
+
+* the disease trends based on the model; provided practical strategy on the prevention and control of the disease
 
 
 [Details of this project can be seen in this section](https://valentinowang.github.io/math-wsy.github.io/files/Infectious_Diseases_Model.pdf)

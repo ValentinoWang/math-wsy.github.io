@@ -2,7 +2,9 @@
 title: "Shape Optimization of “FAST” Active Reflector panels Based on Target Planning and Particle Swarm Algorithm"
 excerpt: "
 * This project comes from Contemporary Undergraduate Mathematical Contest in Modeling, 2021
+
 * Awarded the **First Prize** of Contemporary Undergraduate Mathematical Contest in Modeling
+
 ![Structure of panel](https://valentinowang.github.io/math-wsy.github.io/images/Project/Project1/Structure_of_panel.png#pic_center)"
 collection: portfolio
 ---

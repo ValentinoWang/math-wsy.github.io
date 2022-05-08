@@ -8,5 +8,5 @@ Then, the conditions for the disease-free cycle solution to satisfy stability wi
 collection: portfolio
 ---
 
-[Details of this project can be seen in this section](https://valentinowang.github.io/math-wsy.github.io/files/Infectious-Diseases-Model-Based-on-Dynamical-System-Model-with-Migration-and-Periodic-Pulse-Inoculation-Effects.pdf)"
+[Details of this project can be seen in this section](https://valentinowang.github.io/math-wsy.github.io/files/Infectious_Diseases_Model.pdf)"
 

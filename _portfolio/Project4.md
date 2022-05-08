@@ -11,8 +11,6 @@ collection: portfolio
 
 * Found the analytic solution for disease-free equilibrium; analyzed its stability using Lyapunov’s second theorem
 
-* the disease trends based on the model; provided practical strategy on the prevention and control of the disease
-
+* Predicted the disease trends based on the model; provided practical strategy on the prevention and control of the disease
 
 [Details of this project can be seen in this section](https://valentinowang.github.io/math-wsy.github.io/files/Infectious_Diseases_Model.pdf)
-

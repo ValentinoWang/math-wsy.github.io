@@ -4,7 +4,7 @@ excerpt: "
 * This project is the data analysis report of the Summer Social Practice
 
 * The report is recognized as the **Provincial Outstanding Project** of Summer Social Practice.
-![The geographical distribution of samples](https://valentinowang.github.io/math-wsy.github.io/images/Project/Project1/附件1_样本的分布的地理流量图.gif)"
+![The geographical distribution of samples](https://valentinowang.github.io/math-wsy.github.io/images/Project/Project1/附件1_样本的分布的地理流量图.gif#pic_center =600x400)"
 collection: portfolio
 ---
 

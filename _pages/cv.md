@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [CV](https://valentinowang.github.io/math-wsy.github.io/files/V6_Siyao_Wang_CV.pdf)
+Here is my [CV](https://valentinowang.github.io/math-wsy.github.io/files/Siyao_Wang_CV.pdf)
 
 Education
 ======
